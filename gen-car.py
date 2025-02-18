@@ -26,3 +26,6 @@ for _ in range(10):  # Adjust the range to generate more data
     car_data = generate_car_data()
     print(car_data)
     time.sleep(1)  # Simulate real-time data generation with a delay
+
+
+# hello from raakin, for v1.0

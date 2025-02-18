@@ -18,3 +18,5 @@ def simulate_f1_driver_heart_rate():
         time.sleep(1)
 
 simulate_f1_driver_heart_rate()
+
+
